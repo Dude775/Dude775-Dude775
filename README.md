@@ -20,28 +20,16 @@
 
 ---
 
+
 ### 👨‍💻 About Me in Code
 
-```javascript
-const davidRubin = {
-    name: "David Rubin",
-    location: "Ramat Gan, Israel 🇮🇱",
-    role: "AI Engineer & Full-Stack Developer",
-    code: ["Python", "JavaScript", "TypeScript"],
-    specialization: ["RAG Systems", "LangChain", "AI Agents"],
-    technologies: {
-        ai_ml: ["LangChain", "OpenAI", "RAG", "Vector Databases"],
-        backend: ["FastAPI", "Python", "Node.js"],
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        databases: ["ChromaDB", "Pinecone", "PostgreSQL"],
-        tools: ["Docker", "Git", "VS Code"]
-    },
-    currentFocus: "Building next-gen RAG systems and AI agents",
-    portfolio: "https://system-portfolio.vercel.app/",
-    funFact: "I turn complex AI into simple solutions ⚡",
-    lifePhilosophy: "Code smart, not hard"
-};
-```
+**David Rubin** – AI Engineer & Full‑Stack Developer based in Ramat Gan, Israel 🇮🇱.  
+Focused on building **RAG systems**, AI agents, and end‑to‑end solutions from idea to production.
+
+- Enjoys working with Python, JavaScript, and TypeScript across backend and frontend.  
+- Passionate about LangChain, vector databases, and LLMs for turning raw data into real insights.  
+- Loves taking complex technical problems and turning them into clear, practical solutions for teams and clients.
+
 
 <div align="center">
 
