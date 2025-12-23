@@ -22,25 +22,26 @@
 
 ### 👨‍💻 About Me in Code
 
+```javascript
 const davidRubin = {
-name: "David Rubin",
-location: "Ramat Gan, Israel 🇮🇱",
-role: "AI Engineer & Full-Stack Developer",
-code: ["Python", "JavaScript", "TypeScript"],
-specialization: ["RAG Systems", "LangChain", "AI Agents"],
-technologies: {
-ai_ml: ["LangChain", "OpenAI", "RAG", "Vector Databases"],
-backend: ["FastAPI", "Python", "Node.js"],
-frontend: ["React", "Next.js", "Tailwind CSS"],
-databases: ["ChromaDB", "Pinecone", "PostgreSQL"],
-tools: ["Docker", "Git", "VS Code"]
-},
-currentFocus: "Building next-gen RAG systems and AI agents",
-portfolio: "https://system-portfolio.vercel.app/",
-funFact: "I turn complex AI into simple solutions ⚡",
-lifePhilosophy: "Code smart, not hard"
+    name: "David Rubin",
+    location: "Ramat Gan, Israel 🇮🇱",
+    role: "AI Engineer & Full-Stack Developer",
+    code: ["Python", "JavaScript", "TypeScript"],
+    specialization: ["RAG Systems", "LangChain", "AI Agents"],
+    technologies: {
+        ai_ml: ["LangChain", "OpenAI", "RAG", "Vector Databases"],
+        backend: ["FastAPI", "Python", "Node.js"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        databases: ["ChromaDB", "Pinecone", "PostgreSQL"],
+        tools: ["Docker", "Git", "VS Code"]
+    },
+    currentFocus: "Building next-gen RAG systems and AI agents",
+    portfolio: "https://system-portfolio.vercel.app/",
+    funFact: "I turn complex AI into simple solutions ⚡",
+    lifePhilosophy: "Code smart, not hard"
 };
-
+```
 
 <div align="center">
 
@@ -55,7 +56,6 @@ lifePhilosophy: "Code smart, not hard"
 🎨 Creating production-ready AI applications
 
 ✍️ Contributing to open-source AI projects
-
 
 ---
 
@@ -148,7 +148,7 @@ lifePhilosophy: "Code smart, not hard"
 - AI-powered assistant using RAG architecture
 - Built with LangChain, Python, Vector DB
 - Intelligent document retrieval & processing
-- [View Code →](https://github.com/Dude775/personal-command-center-jarvis-rag)
+- [View Code](https://github.com/Dude775/personal-command-center-jarvis-rag)
 
 </td>
 <td width="50%">
@@ -157,7 +157,7 @@ lifePhilosophy: "Code smart, not hard"
 - Privacy-focused RAG implementation
 - Runs completely offline
 - Optimized for local LLMs
-- [View Code →](https://github.com/Dude775/local-rag-system)
+- [View Code](https://github.com/Dude775/local-rag-system)
 
 </td>
 </tr>
@@ -168,13 +168,11 @@ lifePhilosophy: "Code smart, not hard"
 ### 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 22 November 2025 - To: 22 December 2025
 
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -187,7 +185,11 @@ No activity tracked
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Dude775/Dude775/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dude775/Dude775/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dude775/Dude775/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dude775/Dude775/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -199,7 +201,7 @@ No activity tracked
 <a href="https://github.com/Dude775"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-**"The best way to predict the future is to build it."** – David Rubin
+**"The best way to predict the future is to build it."** - David Rubin
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 
