@@ -168,6 +168,13 @@ lifePhilosophy: "Code smart, not hard"
 ### 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 December 2025 - To: 22 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
